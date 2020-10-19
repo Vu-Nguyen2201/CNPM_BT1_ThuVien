@@ -1,0 +1,17 @@
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\bin\Debug\BT_CNPM_1.exe.config
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\bin\Debug\BT_CNPM_1.exe
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\bin\Debug\BT_CNPM_1.pdb
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.csprojAssemblyReference.cache
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmBangCap.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmMDI.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\BT_CNPM_1.Properties.Resources.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.csproj.GenerateResource.cache
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\BT_CNPM_1.exe
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\BT_CNPM_1.pdb
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmBoPhan.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmChucVu.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmLyDoThanhLy.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmTheLoaiSach.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmThamSo.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmLoaiDocGia.resources

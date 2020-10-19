@@ -1,0 +1,11 @@
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\bin\Debug\BT_CNPM_1.exe.config
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\bin\Debug\BT_CNPM_1.exe
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\bin\Debug\BT_CNPM_1.pdb
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\BT_CNPM_1.csprojAssemblyReference.cache
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\BT_CNPM_1.Properties.Resources.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\BT_CNPM_1.csproj.GenerateResource.cache
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\BT_CNPM_1.csproj.CoreCompileInputs.cache
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\BT_CNPM_1.exe
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\BT_CNPM_1.pdb
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\BT_CNPM_1.frmMDI.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\BT_CNPM_1.frmBangCap.resources
