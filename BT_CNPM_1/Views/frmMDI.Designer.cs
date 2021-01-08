@@ -652,6 +652,7 @@
             this.btnChoMuonSach.TabIndex = 3;
             this.btnChoMuonSach.Text = "Cho mượn sách";
             this.btnChoMuonSach.UseVisualStyleBackColor = true;
+            this.btnChoMuonSach.Click += new System.EventHandler(this.btnChoMuonSach_Click);
             // 
             // btnTiepNhanSachMoi
             // 
@@ -670,6 +671,7 @@
             this.btnLapTheDocSach.TabIndex = 1;
             this.btnLapTheDocSach.Text = "Lập thẻ đọc sách";
             this.btnLapTheDocSach.UseVisualStyleBackColor = true;
+            this.btnLapTheDocSach.Click += new System.EventHandler(this.btnLapTheDocSach_Click);
             // 
             // btnTiepNhanNhanVien
             // 
@@ -679,6 +681,7 @@
             this.btnTiepNhanNhanVien.TabIndex = 0;
             this.btnTiepNhanNhanVien.Text = "Tiếp nhận nhân viên";
             this.btnTiepNhanNhanVien.UseVisualStyleBackColor = true;
+            this.btnTiepNhanNhanVien.Click += new System.EventHandler(this.btnTiepNhanNhanVien_Click);
             // 
             // groupBoxDanhMuc
             // 
@@ -704,6 +707,7 @@
             this.btnBangThamSo.TabIndex = 6;
             this.btnBangThamSo.Text = "Bảng tham số";
             this.btnBangThamSo.UseVisualStyleBackColor = true;
+            this.btnBangThamSo.Click += new System.EventHandler(this.btnBangThamSo_Click);
             // 
             // btnLyDoThanhLy
             // 
@@ -713,6 +717,7 @@
             this.btnLyDoThanhLy.TabIndex = 5;
             this.btnLyDoThanhLy.Text = "Lý do thanh lý";
             this.btnLyDoThanhLy.UseVisualStyleBackColor = true;
+            this.btnLyDoThanhLy.Click += new System.EventHandler(this.btnLyDoThanhLy_Click);
             // 
             // btnTheLoaiSach
             // 
@@ -722,6 +727,7 @@
             this.btnTheLoaiSach.TabIndex = 4;
             this.btnTheLoaiSach.Text = "Thể loại sách";
             this.btnTheLoaiSach.UseVisualStyleBackColor = true;
+            this.btnTheLoaiSach.Click += new System.EventHandler(this.btnTheLoaiSach_Click);
             // 
             // btnLoaiDocGia
             // 
@@ -731,6 +737,7 @@
             this.btnLoaiDocGia.TabIndex = 3;
             this.btnLoaiDocGia.Text = "Loại độc giả";
             this.btnLoaiDocGia.UseVisualStyleBackColor = true;
+            this.btnLoaiDocGia.Click += new System.EventHandler(this.btnLoaiDocGia_Click);
             // 
             // btnChucVu
             // 
@@ -740,6 +747,7 @@
             this.btnChucVu.TabIndex = 2;
             this.btnChucVu.Text = "Chức vụ";
             this.btnChucVu.UseVisualStyleBackColor = true;
+            this.btnChucVu.Click += new System.EventHandler(this.btnChucVu_Click);
             // 
             // btnBoPhan
             // 
@@ -749,6 +757,7 @@
             this.btnBoPhan.TabIndex = 1;
             this.btnBoPhan.Text = "Bộ phận";
             this.btnBoPhan.UseVisualStyleBackColor = true;
+            this.btnBoPhan.Click += new System.EventHandler(this.btnBoPhan_Click);
             // 
             // btnBangCap
             // 

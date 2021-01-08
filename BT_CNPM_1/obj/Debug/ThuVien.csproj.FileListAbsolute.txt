@@ -15,3 +15,7 @@ F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmLyDoThanhLy.res
 F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmTheLoaiSach.resources
 F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmThamSo.resources
 F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmLoaiDocGia.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmNhanVien.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmLapTheDocGia.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmChoMuonSach.resources
+F:\Data\Nam3\CNPM\BT_CNPM_1\BT_CNPM_1\obj\Debug\ThuVien.Views.frmThanhLySach.resources

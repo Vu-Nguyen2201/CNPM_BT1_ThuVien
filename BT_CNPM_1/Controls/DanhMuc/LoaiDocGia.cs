@@ -32,11 +32,13 @@ namespace ThuVien.Controls
             string str = "insert into LOAIDOCGIA values(" + MaLDG.ToString() + ",N'" + ten + "')";
             db.ExecuteNonQuery(str);
         }
+
         public void XoaLoaiDocGia(int index)
         {
             string str = "delete from LOAIDOCGIA where MaLoaiDocGia = " + ldg_dt.Rows[index]["MaLoaiDocGia"].ToString();
             db.ExecuteNonQuery(str);
         }
+
         public void CapNhatLoaiDocGia(int index, string ten)
         {
             string str = "update LOAIDOCGIA set TenLoaiDocGia = N'" + ten + "' where MaLoaiDocGia = " + ldg_dt.Rows[index]["MaLoaiDocGia"].ToString();

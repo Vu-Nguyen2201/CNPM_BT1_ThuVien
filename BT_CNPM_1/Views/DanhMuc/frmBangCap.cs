@@ -29,8 +29,8 @@ namespace ThuVien.Views
         {
             lvBangCap.View = View.Details;
             lvBangCap.FullRowSelect = true;
-            lvBangCap.Columns[1].Width = 273;
             lvBangCap.Items.Clear();
+            lvBangCap.Columns[1].Width = 273;
             int i;
             string str;
             DataTable dt;

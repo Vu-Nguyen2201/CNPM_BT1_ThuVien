@@ -112,7 +112,63 @@ namespace ThuVien.Views
 
         private void btnBangCap_Click(object sender, EventArgs e)
         {
+            frmBangCap f = new frmBangCap();
+            f.MdiParent = this;
+            f.Show();
+        }
 
+        private void btnBoPhan_Click(object sender, EventArgs e)
+        {
+            frmBoPhan f = new frmBoPhan();
+            f.Show();
+        }
+
+        private void btnChucVu_Click(object sender, EventArgs e)
+        {
+            frmChucVu f = new frmChucVu();
+            f.Show();
+        }
+
+        private void btnLoaiDocGia_Click(object sender, EventArgs e)
+        {
+            frmLoaiDocGia f = new frmLoaiDocGia();
+            f.Show();
+        }
+
+        private void btnTheLoaiSach_Click(object sender, EventArgs e)
+        {
+            frmTheLoaiSach f = new frmTheLoaiSach();
+            f.Show();
+        }
+
+        private void btnLyDoThanhLy_Click(object sender, EventArgs e)
+        {
+            frmLyDoThanhLy f = new frmLyDoThanhLy();
+            f.Show();
+        }
+
+        private void btnBangThamSo_Click(object sender, EventArgs e)
+        {
+            frmThamSo f = new frmThamSo();
+            f.Show();
+        }
+
+        private void btnTiepNhanNhanVien_Click(object sender, EventArgs e)
+        {
+            frmNhanVien f = new frmNhanVien();
+            f.Show();
+        }
+
+        private void btnLapTheDocSach_Click(object sender, EventArgs e)
+        {
+            frmLapTheDocGia f = new frmLapTheDocGia();
+            f.Show();
+        }
+
+        private void btnChoMuonSach_Click(object sender, EventArgs e)
+        {
+            frmChoMuonSach f = new frmChoMuonSach();
+            f.Show();
         }
     }
 }

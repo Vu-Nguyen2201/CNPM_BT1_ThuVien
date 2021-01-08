@@ -53,6 +53,10 @@
     <Compile Include="Controls\DanhMuc\ChucVu.cs" />
     <Compile Include="Controls\DanhMuc\BoPhan.cs" />
     <Compile Include="Controls\DanhMuc\BangCap.cs" />
+    <Compile Include="Controls\QuanLy\PhieuThanhLy.cs" />
+    <Compile Include="Controls\QuanLy\PhieuMuonSach.cs" />
+    <Compile Include="Controls\QuanLy\DocGia.cs" />
+    <Compile Include="Controls\QuanLy\NhanVien.cs" />
     <Compile Include="Models\Database.cs" />
     <Compile Include="Views\DanhMuc\frmBangCap.cs">
       <SubType>Form</SubType>
@@ -90,6 +94,30 @@
     <Compile Include="Views\DanhMuc\frmLyDoThanhLy.Designer.cs">
       <DependentUpon>frmLyDoThanhLy.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\frmLapPhieuThuTienPhat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmLapPhieuThuTienPhat.Designer.cs">
+      <DependentUpon>frmLapPhieuThuTienPhat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\QuanLy\frmChoMuonSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\QuanLy\frmChoMuonSach.Designer.cs">
+      <DependentUpon>frmChoMuonSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmGhiNhanMatSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmGhiNhanMatSach.Designer.cs">
+      <DependentUpon>frmGhiNhanMatSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmLapTheDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmLapTheDocGia.Designer.cs">
+      <DependentUpon>frmLapTheDocGia.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\frmMDI.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -103,6 +131,30 @@
     </Compile>
     <Compile Include="Views\DanhMuc\frmTheLoaiSach.Designer.cs">
       <DependentUpon>frmTheLoaiSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmNhanTraSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmNhanTraSach.Designer.cs">
+      <DependentUpon>frmNhanTraSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\QuanLy\frmThanhLySach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\QuanLy\frmThanhLySach.Designer.cs">
+      <DependentUpon>frmThanhLySach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmTiepNhanSachMoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmTiepNhanSachMoi.Designer.cs">
+      <DependentUpon>frmTiepNhanSachMoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\QuanLy\frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\QuanLy\frmNhanVien.Designer.cs">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Views\DanhMuc\frmBangCap.resx">
       <DependentUpon>frmBangCap.cs</DependentUpon>
@@ -138,6 +190,18 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Views\frmLapTheDocGia.resx">
+      <DependentUpon>frmLapTheDocGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\QuanLy\frmThanhLySach.resx">
+      <DependentUpon>frmThanhLySach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\QuanLy\frmChoMuonSach.resx">
+      <DependentUpon>frmChoMuonSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\QuanLy\frmNhanVien.resx">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -151,8 +215,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Views\QuanLy\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -14,7 +14,7 @@ namespace ThuVien
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmLoaiDocGia());
+            Application.Run(new frmMDI());
         }
     }
 }

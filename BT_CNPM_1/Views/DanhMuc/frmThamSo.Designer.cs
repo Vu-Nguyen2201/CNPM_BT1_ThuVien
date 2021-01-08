@@ -167,6 +167,7 @@
             this.lvThamSo.Size = new System.Drawing.Size(548, 315);
             this.lvThamSo.TabIndex = 0;
             this.lvThamSo.UseCompatibleStateImageBehavior = false;
+            this.lvThamSo.View = System.Windows.Forms.View.Details;
             this.lvThamSo.SelectedIndexChanged += new System.EventHandler(this.lvThamSo_SelectedIndexChanged);
             // 
             // colSTT

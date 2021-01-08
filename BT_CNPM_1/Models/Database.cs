@@ -27,6 +27,7 @@ namespace ThuVien.Models
             {
                 //Đăng nhập SQL Server sử dụng SQL Server Authentication Mode.
                 connStr = "server=" + svrName + "; uid=" + usrName + "; pwd=" + pwd + " ;database=" + dbName;
+                //connStr = "Data Source=DESKTOP-GNULQ63;Initial Catalog=ThuVien;Integrated Security=False; uid = thuvien; Password = 12345";
             }
             //Câu lệnh dùng để thiết lập kết nối đến SQL Server là server=tên_svr; database = tên_db;
             //Integrated Security = True hay server=tên_svr; database = tên_db; uid = tên_đăng_nhập;
